@@ -1,4 +1,4 @@
-module github.com/hk4170/piko
+module github.com/andydunstall/piko
 
 go 1.24.1
 
